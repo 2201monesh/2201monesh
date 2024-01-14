@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Monesh Goyal, a pre final year computer science undergrad, pursuing Btech from Medicaps University, Indore, Madhya Pradesh<br>I am a Frontend developer who loves to work and collaborate with frontend technologies<br>I would love to contribute to frontend open source projects<br>You can mail me at - goyalmonesh2201@gmail.com
+Hey, I'm Monesh Goyal, a final year computer science undergrad, pursuing Btech from Medicaps University, Indore, Madhya Pradesh<br>I am a Frontend developer who loves to work and collaborate with frontend technologies<br>I would love to contribute to frontend open source projects<br>You can mail me at - goyalmonesh2201@gmail.com
 
 
 ## 🌐 Socials:
